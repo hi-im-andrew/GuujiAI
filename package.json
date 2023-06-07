@@ -1,0 +1,8 @@
+{
+  "name": "GuujiAI",
+  "packageManager": "yarn@3.5.1",
+  "dependencies": {
+    "dotenv": "^16.1.4",
+    "openai": "^3.2.1"
+  }
+}
